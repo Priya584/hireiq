@@ -1,0 +1,21 @@
+TOPIC: What "fast learner" really signals in a JD
+
+When a JD emphasizes "fast learner" or "ability to pick up new technologies
+quickly," it is usually signaling something specific about the environment:
+
+- The tech stack will change, or you'll work on unfamiliar things. Common at
+  startups (stack evolves fast) and services companies (you switch client stacks).
+- They are NOT looking for someone who only knows the exact listed technologies;
+  they will hire for aptitude over checklist match. This is good news for
+  candidates missing one or two listed skills.
+- They may not have time for long onboarding — you're expected to ramp yourself
+  using docs and code, not formal training.
+
+What it asks of you: comfort with ambiguity, self-directed learning, and
+transferring concepts across tools (e.g., one cloud to another, one framework to
+another). In interviews, demonstrate this with a concrete story: "I had never used
+X; here's how I became productive in two weeks and what I shipped."
+
+Subtext to watch: heavy emphasis on "fast learner" plus a very broad skills list
+can also signal under-staffing — one person expected to cover a lot. Not
+necessarily bad, but ask about team size and support.

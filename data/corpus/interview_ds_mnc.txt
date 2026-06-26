@@ -1,0 +1,26 @@
+INTERVIEW EXPERIENCE: Data Scientist at a large MNC
+
+ROUNDS & STRUCTURE
+Standardized, four rounds. (1) Online assessment: aptitude + basic statistics +
+SQL. (2) Technical round: statistics, ML concepts, SQL queries, and a case. (3)
+Managerial round: past projects, stakeholder handling, process. (4) HR: notice
+period, compensation, logistics.
+
+SPECIFIC QUESTIONS ASKED
+- "Explain p-value and confidence interval to a non-technical stakeholder."
+- "Write a SQL query for month-over-month retention."
+- "Difference between bagging and boosting; when use which?"
+- Case: "A client's churn went up 5%. How do you investigate?"
+- Managerial: "How did you handle a stakeholder who disagreed with your analysis?"
+
+WHAT THE INTERVIEWER EMPHASIZED
+Fundamentals, clear communication to non-technical stakeholders, and process. The
+MNC valued the ability to explain and to work within a structured delivery model
+over cutting-edge modeling. SQL and statistics rigor were tested hard.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Crisp business communication and SQL. Strong modelers sometimes fumbled explaining
+results simply or writing clean SQL under time pressure.
+
+OUTCOME: Offer made. Strong fundamentals, clear stakeholder communication, and a
+stable profile (no job-hopping concerns) sealed it.

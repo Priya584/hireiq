@@ -1,0 +1,25 @@
+INTERVIEW EXPERIENCE: Backend Engineer at a seed-stage startup
+
+ROUNDS & STRUCTURE
+Lean, three rounds, fast (offer in a week). (1) Founder call. (2) Live build
+session: build a small REST API with a database, live, in 90 minutes. (3) Culture
++ ownership chat with the founding team.
+
+SPECIFIC QUESTIONS ASKED
+- "Build an API for X with these two endpoints; we'll add a requirement midway."
+  (They changed the spec on purpose to see how I adapted.)
+- "How would you handle idempotency for this payment endpoint?"
+- "Your DB query is slow at 10k rows — what do you check?"
+- Founder: "What have you built completely on your own, start to finish?"
+
+WHAT THE INTERVIEWER EMPHASIZED
+Shipping working code fast, handling changing requirements without panicking, and
+real ownership. No algorithm puzzles. They cared about practical backend judgment
+(indexing, idempotency, error handling) and whether I could operate without a spec.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Practical, from-scratch building under time pressure. Candidates used to large
+codebases with scaffolding struggled to build a service from zero quickly.
+
+OUTCOME: Offer made. The deciding factor was calm adaptation when they changed the
+spec mid-build, plus a side project I had shipped solo.

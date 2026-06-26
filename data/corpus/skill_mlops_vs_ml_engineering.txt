@@ -1,0 +1,21 @@
+TOPIC: Difference between MLOps and ML Engineering
+
+These overlap but are not the same, and JDs often conflate them.
+
+ML Engineering: building the models and the code around them. Feature engineering,
+model architecture, training pipelines, evaluation, and shipping a model that
+performs well on the task. An ML Engineer is judged on whether the model is good
+and works in production.
+
+MLOps: building the platform and automation that lets many models be trained,
+deployed, monitored, and retrained reliably. CI/CD for models, feature stores,
+model registries, experiment tracking, serving infrastructure, drift monitoring,
+and reproducibility. An MLOps engineer is judged on whether the ML system is
+reliable, repeatable, and scalable — often they don't build the models themselves.
+
+In practice: a small startup wants one person who does both. A larger company
+separates them: ML Engineers/Scientists build models, MLOps/Platform engineers
+build the rails. If a JD lists heavy infra (Kubernetes, Terraform, Airflow,
+feature stores) under an "ML Engineer" title, it's really an MLOps/platform role.
+If it emphasizes modeling, metrics, and experimentation, it's true ML engineering.
+Read the responsibilities, not just the title.

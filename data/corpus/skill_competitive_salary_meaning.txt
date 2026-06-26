@@ -1,0 +1,21 @@
+TOPIC: What "competitive salary" actually means
+
+"Competitive salary" is one of the least informative phrases in a JD. In practice
+it usually means one of:
+
+- Market rate: they pay roughly what comparable companies pay — neither a premium
+  nor below. Most common.
+- "We don't want to anchor": they prefer you state your expectation first, hoping
+  to pay at or below your number.
+- Below-market with non-cash upside: early startups sometimes use "competitive"
+  while actually offering less cash but equity (see equity-vs-salary tradeoffs).
+
+What it does NOT reliably mean: top-of-market. Companies that pay top quartile
+usually say so or signal it (named bands, "top 10% comp," strong Glassdoor data).
+
+How to handle it: research the real range for the role, level, and city
+(Bangalore/Hyderabad/Mumbai differ) using Glassdoor, levels.fyi, and peers. Let
+the company give a range first if you can. For Indian roles, clarify whether the
+quoted CTC includes variable pay, joining bonus, and ESOPs — "competitive CTC" can
+hide a large variable or paper-equity component. Always separate fixed cash from
+variable and equity when comparing offers.

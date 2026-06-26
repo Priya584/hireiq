@@ -1,0 +1,22 @@
+TOPIC: Leadership expectations in individual-contributor (IC) roles
+
+Senior IC JDs often list "leadership" without a management title, which confuses
+candidates. For an IC, leadership means influence without authority:
+
+- Technical leadership: setting direction on architecture, driving design reviews,
+  and raising the engineering bar through example and code review.
+- Mentorship: growing junior engineers, unblocking them, and reviewing their work
+  constructively — even though they don't report to you.
+- Ownership of ambiguous problems: taking a vague, cross-team problem and driving
+  it to a solution, coordinating people without managing them.
+- Project leadership: breaking down work, sequencing it, and keeping a small team
+  aligned and shipping.
+- Influence: getting buy-in for technical decisions through clear reasoning and
+  trust, not org power.
+
+What it does NOT mean for an IC: people management, performance reviews, or hiring
+authority (that's the EM track). A staff/principal IC is expected to have org-wide
+technical influence. Interviewers probe this with "tell me about a time you drove
+something across teams" or "how did you grow a junior engineer." Candidates who
+only describe their own coding output, with no influence on others, read as junior
+regardless of years of experience.

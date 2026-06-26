@@ -1,0 +1,22 @@
+TOPIC: What "communication skills" means in a technical JD
+
+"Strong communication skills" in a technical JD is not about being extroverted or
+fluent in English small talk. It specifically means:
+
+- Written clarity: can you write a clear design doc, PR description, incident
+  report, or Slack update that others can act on without a meeting? This is the #1
+  meaning, especially in remote/async and US-India teams.
+- Explaining technical decisions: can you justify a tradeoff to both engineers and
+  non-technical stakeholders (PMs, clients) at the right altitude?
+- Asking good questions: surfacing ambiguity early instead of building the wrong
+  thing silently.
+- Disagreeing constructively: pushing back on a bad requirement with reasons, not
+  ego.
+- Knowing your audience: technical depth with peers, business framing with
+  leadership and clients.
+
+By company type: MNCs and client-facing roles emphasize stakeholder and verbal
+communication. Product companies and remote teams emphasize crisp written
+communication and design docs. The hidden test in interviews is often the
+behavioral round and how clearly you explain your past projects. Rambling, jargon
+without structure, or inability to explain WHY are the red flags.

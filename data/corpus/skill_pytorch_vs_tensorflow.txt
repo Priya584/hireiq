@@ -1,0 +1,22 @@
+TOPIC: PyTorch vs TensorFlow — when it matters and when it doesn't
+
+For most ML roles, PyTorch vs TensorFlow is NOT a real barrier, and good
+interviewers know this. The concepts transfer directly: tensors, autograd,
+layers, loss functions, optimizers, training loops, and deployment all map
+between the two. An engineer strong in one can become productive in the other in
+days to a couple of weeks.
+
+When it genuinely matters:
+- Existing codebase: a team with a large TensorFlow/TF-Serving stack reasonably
+  prefers someone who won't slow down for weeks. Same for a PyTorch shop.
+- Specific ecosystem tools: TF Lite / TF.js for edge/browser, or PyTorch's
+  research ecosystem (Hugging Face, Lightning) for fast experimentation.
+- Research vs production legacy: research has largely consolidated on PyTorch;
+  some older production systems remain on TensorFlow.
+
+When it doesn't matter: most roles, especially if you understand the fundamentals.
+A JD listing "TensorFlow" often just reflects what the team uses today. If you
+know PyTorch deeply, say so and emphasize that the underlying skills transfer —
+strong candidates are rarely rejected over the framework alone. The deeper signal
+interviewers want is whether you understand what the framework is doing, not which
+one you've typed more.

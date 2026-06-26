@@ -1,0 +1,40 @@
+COMPANY TYPE: Early-stage fintech startup (Seed)
+
+MISSION & VISION
+We are building the financial rails for India's next 200 million users — people
+who have a smartphone but have never had real access to credit. The vision is a
+single app that underwrites, lends, and collects safely at scale. At seed stage
+we are pre-product-market-fit: the product will change three times before it
+sticks, and everyone must be comfortable with that.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Ownership over polish. We hire people who ship a rough thing that works this week
+over a perfect thing next quarter. We look for candidates who have built
+something end-to-end alone — a side project, a college product, a feature they
+drove start to finish. Comfort with ambiguity is non-negotiable: there is no
+spec, no PM, and often no second opinion. We value people who ask "should we even
+build this?" not just "how do I build this?"
+
+INTERVIEW PROCESS
+Three rounds. (1) Founder call — why fintech, why early stage, what have you
+built. (2) Practical build round: a 2-3 hour take-home or live session building a
+small API or data pipeline; we care about working code and clear tradeoffs, not
+algorithm puzzles. (3) Culture + ownership round with the founding team: we probe
+a real decision you made under uncertainty and what you'd do differently.
+
+TECH CULTURE
+Extremely fast-paced. Deploys multiple times a day, minimal process, direct
+access to founders. We optimize for learning speed over correctness of process.
+Code review is light; tests cover the money paths only. RBI/compliance reality
+means the lending logic must be careful even when everything else is scrappy.
+
+GROWTH OPPORTUNITIES
+Title inflation is real and fast — an early engineer can be a team lead within a
+year if the company grows. You get enormous surface area: you will touch
+infra, product, and data. The flipside is no mentorship structure.
+
+RED FLAGS WE SCREEN FOR
+Candidates who need clear instructions to move. People who ask about process,
+hierarchy, and work-life balance before asking about the problem. Resume-driven
+developers who chase trendy tech over shipping. Anyone who has only worked inside
+large, well-defined systems and has never owned ambiguity.

@@ -1,0 +1,32 @@
+COMPANY TYPE: Deep tech / AI research company
+
+MISSION & VISION
+We push the frontier — novel models, hard research problems, and technology that
+doesn't exist yet. The mission blends research and product: papers and products
+ship together. Timelines are uncertain because real research is uncertain.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Depth and first-principles thinking. We look for people who understand the math and
+internals, not just API calls — those who can read papers, reproduce them, and
+extend them. Research taste (knowing which problems matter) and the rigor to run
+clean experiments. Strong engineering to turn research into something real.
+
+INTERVIEW PROCESS
+Three to five rounds. (1) Screen on background and research interests. (2) Deep
+technical round on ML fundamentals, math, and your past work — expect to defend
+choices. (3) A research/coding exercise: reproduce or extend a result, or design an
+experiment. (4) Discussion of a paper or your research. (5) Culture/research-fit.
+
+TECH CULTURE
+Methodical on research rigor, but tolerant of exploration and failure (most
+experiments fail). Less process around shipping; more around experimental
+correctness and reproducibility. Intellectually intense; peers are often PhDs.
+
+GROWTH OPPORTUNITIES
+Become a genuine expert at the frontier. Publication opportunities and work with
+top researchers. High scarcity value if the bets pay off.
+
+RED FLAGS WE SCREEN FOR
+"Wrapper" engineers who only call APIs without understanding internals. People who
+need certainty and clear timelines. Inability to read or reproduce papers.
+Overclaiming results without rigorous evaluation.

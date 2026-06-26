@@ -1,0 +1,38 @@
+# AI Hiring Co-pilot — pinned production requirements
+# Generated from: uv pip install -r requirements.txt; pip freeze | grep -E "..."
+# Python 3.12+
+
+# ── LlamaIndex core + plugins ─────────────────────────────────────────────────
+llama-index-core==0.14.23
+llama-index-llms-openrouter==0.5.1
+llama-index-embeddings-huggingface==0.7.0
+llama-index-vector-stores-chroma==0.5.5
+llama-index-readers-file==0.6.0
+llama-index-workflows==2.22.1
+
+# ── Vector store ──────────────────────────────────────────────────────────────
+chromadb==1.5.9
+
+# ── SQL layer ─────────────────────────────────────────────────────────────────
+sqlalchemy==2.0.51
+
+# ── PDF parsing ───────────────────────────────────────────────────────────────
+pdfplumber==0.11.10
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit==1.58.0
+
+# ── Data ─────────────────────────────────────────────────────────────────────
+pandas==2.3.3
+
+# ── Environment / config ─────────────────────────────────────────────────────
+python-dotenv==1.2.2
+
+# ── Embeddings (local, no API cost) ──────────────────────────────────────────
+sentence-transformers==5.6.0
+
+# ── Async helpers ─────────────────────────────────────────────────────────────
+nest-asyncio==1.6.0
+
+# ── Computer Vision (required by Transformers) ───────────────────────────────
+torchvision==0.27.1

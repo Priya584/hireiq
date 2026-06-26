@@ -1,0 +1,21 @@
+TOPIC: Equity vs salary tradeoffs at different stages
+
+Compensation mixes cash and equity differently by company stage, and the equity is
+worth very different amounts:
+
+- Seed: lower cash, larger equity percentage — but the equity is high-risk and
+  most likely worth zero. Take it for the learning and upside lottery, not the
+  cash. Understand it's a bet.
+- Series A/B: moderate cash (closer to market) plus meaningful equity that is less
+  risky than seed but still illiquid for years. Reasonable balance for many.
+- Late-stage / pre-IPO: strong cash plus equity (RSUs or options) with a clearer,
+  though still uncertain, path to liquidity.
+- MNC / large public company: highest reliable cash, equity is liquid RSUs (real
+  money), lower upside multiple but low risk.
+
+Key things to evaluate in an equity offer: ESOP vs RSU, strike price, vesting
+schedule and cliff (typically 4 years, 1-year cliff), the latest valuation and
+your percentage, and most importantly the exercise terms and tax treatment in
+India (ESOPs are taxed at exercise and again at sale). Treat startup equity as
+optional upside, not guaranteed comp. Never accept a big pay cut purely on a paper
+equity promise unless you believe in the company and can afford the bet.

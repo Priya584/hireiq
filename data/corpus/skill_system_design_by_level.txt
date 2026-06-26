@@ -1,0 +1,22 @@
+TOPIC: System design expectations by experience level
+
+System design rounds scale their expectations with seniority:
+
+- Fresher / 0-1 yr: usually no full system design. You may get basic questions —
+  design a URL shortener at a high level, or explain how a web request flows. The
+  bar is clear thinking and fundamentals (DB vs cache, API basics).
+- Junior / 1-3 yrs: expected to design a single service or feature: data model,
+  API, basic scaling (caching, indexing), and obvious failure modes. Not expected
+  to design a whole distributed platform.
+- Mid / 3-6 yrs: design a multi-component system with real tradeoffs — sharding,
+  queues, consistency vs availability, caching strategy, and back-of-envelope
+  capacity estimation. Expected to drive the conversation and justify choices.
+- Senior / 6-10 yrs: lead an ambiguous, open-ended design end-to-end, including
+  non-functional requirements (reliability, cost, security, observability),
+  migration paths, and team/operational implications.
+- Staff+ : design at the level of multiple systems and org impact; tradeoffs
+  across teams, long-term evolution, and "should we build this at all."
+
+A common mismatch: junior candidates over-engineer (premature microservices),
+while some senior candidates under-justify. Interviewers care about reasoning and
+tradeoffs far more than naming technologies.

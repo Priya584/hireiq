@@ -1,0 +1,90 @@
+ARJUN MEHTA
+ML Engineer | AI Engineer
+Email: arjun.mehta2025@gmail.com  |  Phone: +91 98765 43210
+GitHub: github.com/arjunmehta  |  LinkedIn: linkedin.com/in/arjunmehta  |  Pune, India
+
+------------------------------------------------------------
+SUMMARY
+------------------------------------------------------------
+Final-year BTech Computer Science student passionate about machine learning and
+applied AI. Hands-on experience building and deploying ML models and backend
+services through two internships and multiple projects. Seeking ML Engineer / AI
+Engineer roles where I can work on production ML systems.
+
+------------------------------------------------------------
+EDUCATION
+------------------------------------------------------------
+Bachelor of Technology (BTech), Computer Science and Engineering
+Pune Institute of Engineering and Technology, Pune (Tier-2)
+2021 - 2025 (Expected)  |  CGPA: 8.2 / 10
+
+Higher Secondary (Class XII), Science (PCM)
+Maharashtra State Board, 2021  |  89.4%
+
+------------------------------------------------------------
+WORK EXPERIENCE
+------------------------------------------------------------
+Machine Learning Intern — NeuralNest AI (Startup), Bangalore (Remote)
+May 2024 - Jul 2024 (3 months)
+- Built an image classification pipeline using PyTorch achieving 91% accuracy on
+  a custom defect-detection dataset.
+- Containerized the model with Docker and exposed it via a FastAPI inference
+  endpoint, reducing average response latency from 480ms to 110ms.
+- Set up basic experiment tracking with MLflow and wrote data-cleaning scripts in
+  Python and pandas.
+Technologies: Python, PyTorch, FastAPI, Docker, MLflow, pandas
+
+Backend Engineering Intern — Qualex Systems (Mid-size company), Pune
+Dec 2023 - Jan 2024 (2 months)
+- Developed and tested 8 REST API endpoints in FastAPI backed by a PostgreSQL
+  database for an internal inventory tool.
+- Wrote unit tests and added Git-based CI checks, improving code coverage to 75%.
+- Collaborated with a team of 4 using Git and Agile sprints.
+Technologies: Python, FastAPI, PostgreSQL, Git, Docker
+
+------------------------------------------------------------
+PROJECTS
+------------------------------------------------------------
+1. RAG Chatbot for College FAQs
+   Built a retrieval-augmented chatbot that answers student queries from college
+   documents using LlamaIndex, ChromaDB, and an open-source LLM. Reduced repetitive
+   queries to the admin office in a pilot test.
+   Technologies: Python, LlamaIndex, ChromaDB, Hugging Face, Streamlit
+
+2. Image Classifier for Plant Disease Detection
+   Trained a CNN in PyTorch to classify 5 plant diseases from leaf images with 88%
+   validation accuracy. Deployed as a simple web demo.
+   Technologies: Python, PyTorch, OpenCV, Flask
+
+3. REST API for Expense Tracker
+   Designed and built a secure REST API with JWT authentication and CRUD operations
+   for a personal expense tracker.
+   Technologies: Python, FastAPI, PostgreSQL, Docker
+
+4. Personal Portfolio Website
+   Built a responsive portfolio website to showcase projects and blog posts.
+   Technologies: React, JavaScript, HTML, CSS
+
+5. GenAI Resume Analyzer (Ongoing)
+   Building a tool that analyzes resumes against job descriptions using LLMs and
+   embeddings to give fit scores and improvement suggestions. Work in progress.
+   Technologies: Python, LangChain, OpenAI API, FAISS
+
+------------------------------------------------------------
+SKILLS
+------------------------------------------------------------
+Programming Languages: Python, SQL, JavaScript (basic)
+Frameworks & Libraries: PyTorch, FastAPI, pandas, scikit-learn, React (basic)
+Tools & Platforms: Docker, Git, MLflow, Linux, VS Code
+Databases: PostgreSQL, SQLite, ChromaDB
+Soft Skills: Problem-solving, Teamwork, Communication, Fast learner
+
+------------------------------------------------------------
+CERTIFICATIONS
+------------------------------------------------------------
+- Machine Learning Specialization — Coursera (Andrew Ng / DeepLearning.AI), 2023
+
+------------------------------------------------------------
+TARGET ROLES
+------------------------------------------------------------
+ML Engineer, AI Engineer

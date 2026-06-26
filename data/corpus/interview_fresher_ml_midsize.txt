@@ -1,0 +1,25 @@
+INTERVIEW EXPERIENCE: Fresher ML role at a mid-size company
+
+ROUNDS & STRUCTURE
+Three rounds. (1) Online test: aptitude, coding, ML MCQs. (2) Technical interview:
+ML fundamentals, a coding problem, and projects discussion. (3) HR/managerial fit.
+
+SPECIFIC QUESTIONS ASKED
+- "Explain bias-variance tradeoff."
+- "How does gradient descent work? What is a learning rate?"
+- Coding: a basic array/string problem (easy-medium).
+- "Walk me through your final-year/college ML project — why these choices?"
+- "What happens if your training accuracy is high but test accuracy is low?"
+
+WHAT THE INTERVIEWER EMPHASIZED
+Fundamentals and depth on the candidate's own projects. For a fresher, they did NOT
+expect production experience; they wanted clear understanding of basics and honest,
+deep knowledge of whatever the candidate had actually done. Red flag: claiming a
+project on the resume but not understanding it.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Truly understanding their own resume projects, and core ML math basics. Many
+freshers listed projects they couldn't explain, which tanked the interview.
+
+OUTCOME: Offer made. Solid fundamentals and the ability to deeply explain a
+self-built project (over a flashy but poorly-understood one) won it.

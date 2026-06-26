@@ -1,0 +1,22 @@
+TOPIC: What "full stack" means at a startup vs an MNC
+
+"Full stack developer" describes very different jobs depending on the company.
+
+At a startup: it literally means you build everything — frontend (React), backend
+(APIs, business logic), database design, basic DevOps (deploy, monitor), and
+sometimes mobile. You own features end-to-end with little specialization. The
+expectation is breadth, speed, and comfort context-switching daily. You are
+trusted to make decisions across the stack.
+
+At an MNC / large company: "full stack" is narrower and more structured. You work
+within an established architecture, frontend and backend are often separate
+concerns even if you touch both, and many cross-cutting concerns (infra, security,
+DBA, release) are owned by dedicated teams. "Full stack" here often means "comfortable
+in both React and a backend framework within our defined patterns," not "owns the
+entire system."
+
+Implications for candidates: a startup full-stack role rewards generalists who
+ship; an MNC role rewards people who work well within structure and process. Depth
+expectations differ too — startups tolerate "good enough across the board," while
+larger companies may expect more polish in your primary area. Read whether the JD
+emphasizes ownership/breadth (startup) or fitting into a system (MNC).

@@ -1,0 +1,140 @@
+{
+  "_demo_note": "Pre-computed example analysis for demo mode. Arjun Mehta (fresher) applying to ML Engineer at a Series A fintech startup.",
+  "investigation_plan": {
+    "sql_queries": [
+      "What ML Engineer roles in Bangalore at Series A companies require PyTorch and Docker with 3-5 years experience?",
+      "What is the typical salary range for ML Engineer roles at fintech startups?",
+      "Which companies in our database hire ML Engineers with MLflow and FastAPI experience?"
+    ],
+    "rag_queries": [
+      "What does a Series A fintech startup really expect from an ML Engineer beyond the listed technical skills?",
+      "What does production ML deployment experience mean in practice at a fast-paced startup?",
+      "How important is system design experience for ML Engineers at early-stage companies?"
+    ],
+    "key_skills_to_evaluate": ["PyTorch", "MLflow", "Docker", "production deployment", "system design", "Kubernetes", "AWS"],
+    "initial_gap_hypothesis": [
+      "Candidate is a fresher with only 5 months internship experience vs 3-5 years required",
+      "No evidence of production ML deployment or model monitoring",
+      "Missing Kubernetes and AWS experience",
+      "No system design experience at scale"
+    ],
+    "hybrid_questions": [
+      "Does the candidate's internship ML work translate to the scale and pace expected at a Series A fintech?",
+      "How does the culture of fast ownership at a startup align with a fresher who hasn't led end-to-end delivery?"
+    ],
+    "investigation_priority": "parallel"
+  },
+  "tool_results": {
+    "sql_results": [
+      "Found 4 ML Engineer roles in Bangalore at Series A companies requiring PyTorch and Docker: (1) ML Engineer at NovaPay Fintech — 3-5 yrs, salary 18-28 LPA; (2) ML Engineer at CredFlow AI — 3-6 yrs, salary 20-32 LPA; (3) Applied ML Engineer at PaySense Labs — 3-5 yrs, salary 15-25 LPA; (4) ML Platform Engineer at LendRight — 4-7 yrs, salary 22-35 LPA. All require production deployment experience.",
+      "Typical ML Engineer salary at Series A fintech startups: 15-35 LPA depending on experience. Freshers/interns typically offered 6-12 LPA. The 3-5 year band commands 18-28 LPA in Bangalore.",
+      "Companies requiring both MLflow and FastAPI: CredFlow AI (Series A, fintech), NeuralPay (Series B, fintech), DataMint AI (Series A, e-commerce). All three explicitly state 'production ML ownership' as a core requirement."
+    ],
+    "rag_results": [
+      "Series A fintech startups expect ML Engineers to own the full ML lifecycle with minimal hand-holding. Beyond technical skills, they look for engineers who can handle ambiguity, iterate quickly, and communicate model limitations to non-technical stakeholders. A fresher, no matter how talented, will face a steep onboarding curve in such an environment.",
+      "Production ML deployment at a fast-paced startup means containerizing models (Docker), exposing them via REST APIs (FastAPI), monitoring data drift, handling retraining triggers, and being on-call for model failures. It is fundamentally different from deploying a notebook demo — it requires DevOps awareness, logging infrastructure, and SLA thinking.",
+      "System design experience for ML Engineers at early-stage companies typically involves making pragmatic choices under resource constraints: choosing the right model complexity, designing a feature store, deciding on batch vs real-time inference. Candidates without this experience often struggle to scope ML projects realistically."
+    ]
+  },
+  "synthesis": {
+    "fit_score": 38,
+    "score_breakdown": {
+      "skills_match": 58,
+      "experience_match": 18,
+      "culture_fit": 42
+    },
+    "strengths": [
+      {
+        "point": "Strong technical foundation in PyTorch and MLflow",
+        "evidence": "Candidate used PyTorch for image classification (91% accuracy) and set up MLflow experiment tracking at NeuralNest AI internship.",
+        "source": "resume"
+      },
+      {
+        "point": "Hands-on containerization with Docker and FastAPI serving",
+        "evidence": "Candidate containerized a PyTorch model with Docker and served it via FastAPI during a 3-month ML internship — directly matching core technical requirements.",
+        "source": "resume"
+      },
+      {
+        "point": "Relevant portfolio projects (RAG chatbot, REST API)",
+        "evidence": "Candidate built a RAG chatbot using LlamaIndex/ChromaDB/Streamlit and a production-style REST API with JWT auth — shows initiative beyond coursework.",
+        "source": "resume"
+      },
+      {
+        "point": "Target role and domain alignment",
+        "evidence": "Candidate explicitly targets ML Engineer roles; domain and tech stack are aligned with the fintech role requirements.",
+        "source": "resume"
+      }
+    ],
+    "gaps": [
+      {
+        "point": "Severe experience deficit — fresher vs 3-5 years required",
+        "severity": "critical",
+        "evidence": "Candidate has only 5 months total professional experience (two internships). The role requires 3-5 years. SQL data confirms all comparable Series A fintech ML roles mandate this experience range, with salaries structured for mid-level engineers.",
+        "source": "sql"
+      },
+      {
+        "point": "No production ML deployment or model monitoring experience",
+        "severity": "critical",
+        "evidence": "RAG context clarifies that production ML at a Series A fintech requires full lifecycle ownership including data drift monitoring, retraining triggers, and on-call responsibilities. Candidate's internship work did not reach this level.",
+        "source": "rag"
+      },
+      {
+        "point": "Missing Kubernetes and cloud infrastructure experience",
+        "severity": "moderate",
+        "evidence": "Role mentions Kubernetes as nice-to-have; SQL shows 3 of 4 comparable roles require it. Candidate has Docker but no K8s or AWS/cloud production experience.",
+        "source": "sql"
+      },
+      {
+        "point": "No system design experience at scale",
+        "severity": "moderate",
+        "evidence": "RAG context emphasizes that ML Engineers at early-stage startups must make pragmatic architectural decisions under resource constraints. Candidate's projects are well-scoped but academic in nature.",
+        "source": "rag"
+      }
+    ],
+    "summary": "Arjun Mehta shows strong technical promise — PyTorch, MLflow, Docker, and FastAPI experience directly match the role's tech stack, and his RAG project demonstrates initiative well beyond a typical fresher. However, with only 5 months of internship experience against a 3-5 year requirement, there is a fundamental seniority mismatch. The role demands full production ML ownership at a fast-paced fintech startup, which requires battle-tested deployment and incident-response experience the candidate has not yet had the opportunity to build.",
+    "recommendation": "weak_fit",
+    "alternative_roles": [
+      "Junior ML Engineer (0-1 year experience)",
+      "ML Intern or Trainee at a larger company with structured mentorship",
+      "Backend Engineer with ML responsibilities at a seed-stage startup",
+      "AI Engineer (RAG/LLM focus) at an early-stage startup open to freshers"
+    ],
+    "citations": {
+      "from_sql": [
+        "4 Series A ML Engineer roles in Bangalore require 3-5 years experience, salary 15-35 LPA",
+        "All comparable fintech ML roles explicitly mandate production deployment experience"
+      ],
+      "from_rag": [
+        "Series A fintechs expect full ML lifecycle ownership with minimal hand-holding",
+        "Production ML = containerization + API serving + drift monitoring + on-call"
+      ]
+    },
+    "confidence": 88
+  },
+  "reflection": {
+    "needs_replan": false,
+    "new_sql_queries": [],
+    "new_rag_queries": [],
+    "note": "Analysis is well-supported by both SQL market data and RAG culture context. Seniority gap is clear-cut."
+  },
+  "followup_questions": {
+    "questions": [
+      {
+        "gap_addressed": "Severe experience deficit — fresher vs 3-5 years required",
+        "question": "The role requires 3-5 years of ML engineering experience, and your resume shows 5 months across two internships. Have you had any additional professional or contract ML work — even part-time or freelance — that isn't on your resume? If so, describe the most complex ML system you built end-to-end, including how it was deployed and monitored in production.",
+        "what_good_answer_looks_like": "A strong answer reveals additional continuous professional ML work (6+ months) beyond what the resume shows, with concrete production deployment details: containerization, API serving, monitoring setup, and handling at least one real production incident or performance issue."
+      },
+      {
+        "gap_addressed": "No production ML deployment or model monitoring experience",
+        "question": "Production ML at a fintech startup involves deploying models as live services with real-time monitoring, data drift detection, and retraining pipelines. Can you walk through the closest thing to a production ML deployment you've built — what did the serving infrastructure look like, how did you handle model degradation, and what would you do differently now?",
+        "what_good_answer_looks_like": "A strong answer describes a real serving setup (Docker + FastAPI or similar), some form of monitoring or logging (even basic), and demonstrates awareness of the gap between prototype and production. Acknowledging limitations honestly while showing a clear plan to bridge them is a positive signal."
+      },
+      {
+        "gap_addressed": "No system design experience at scale",
+        "question": "If you were designing the ML infrastructure for a fraud detection system at a fintech startup — handling 10,000 transactions per day, requiring sub-200ms inference, and needing weekly model retraining — how would you architect the system? Walk through your choices for the data pipeline, model serving, and monitoring.",
+        "what_good_answer_looks_like": "A strong answer shows structured thinking: identifies the latency constraint as requiring real-time serving (not batch), proposes a reasonable stack (e.g. FastAPI + Docker + a feature store), discusses trade-offs (batch vs streaming ingestion), and addresses retraining triggers. Does not need to be perfect — shows the candidate can reason about production systems."
+      }
+    ]
+  },
+  "memory_context": "=== SESSION MEMORY (what we know so far) ===\n\n[RESUME SUMMARY]\nCandidate: ARJUN MEHTA. Experience level: fresher, ~0.42 years total. Education: Bachelor of Technology (BTech) in Computer Science and Engineering from Pune Institute of Engineering and Technology, Pune (Tier-2) (2025, CGPA 8.2 / 10). Key skills: Python, SQL, JavaScript, PyTorch, FastAPI, pandas, scikit-learn, React, Docker, Git, MLflow, Linux, VS Code, PostgreSQL, SQLite, ChromaDB. Work experience: Machine Learning Intern at NeuralNest AI (3 mo); Backend Engineering Intern at Qualex Systems (2 mo). Projects: 5 listed. Certifications: 1. Target roles: ML Engineer, AI Engineer.\n\n[JOB DESCRIPTION]\nML Engineer at a Series A fintech startup in Bangalore. 3-5 years experience. Required: Python, PyTorch, MLflow, Docker, REST APIs. Nice to have: Kubernetes, AWS, system design experience.\n\n[INVESTIGATION PLAN]\nInvestigation priority: parallel. 3 SQL queries, 3 RAG queries planned.\nKey skills to evaluate: PyTorch, MLflow, Docker, production deployment, system design, Kubernetes, AWS.\nInitial gap hypotheses: Candidate is a fresher with only 5 months internship experience vs 3-5 years required; No evidence of production ML deployment or model monitoring; Missing Kubernetes and AWS experience; No system design experience at scale.\n\n[KEY SQL FINDINGS]\n- Found 4 ML Engineer roles in Bangalore at Series A companies: salary 15-35 LPA, all requiring 3-5 years and production deployment.\n- Typical fresher salary band: 6-12 LPA. Role targets the 18-28 LPA mid-level band.\n- Companies requiring MLflow + FastAPI all mandate 'production ML ownership'.\n\n[KEY RAG FINDINGS]\n- Series A fintechs expect ML Engineers to own the full ML lifecycle with minimal hand-holding.\n- Production ML means containerization + API serving + drift monitoring + on-call ownership.\n- System design at startups requires pragmatic architectural decisions under constraints.\n\n[SYNTHESIS]\nFit score: 38/100 (skills 58, experience 18, culture 42). Recommendation: weak_fit. Strengths: 4, Gaps: 4. Summary: Strong technical foundation but severe seniority mismatch — fresher applying to a 3-5 year role requiring full production ML ownership.\n\n[FOLLOW-UP QUESTIONS]\n- (Severe experience deficit) Have you had additional professional or contract ML work beyond your internships? Describe the most complex ML system you built end-to-end.\n- (No production ML deployment) Walk through the closest production ML deployment you've built — serving infrastructure, monitoring, and what you'd do differently.\n- (No system design experience) Design the ML infrastructure for a fraud detection system at 10k transactions/day with sub-200ms inference."
+}

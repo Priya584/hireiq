@@ -1,0 +1,304 @@
+[
+  {
+    "id": "fit_001",
+    "category": "fit",
+    "resume_summary": "4 years ML engineering experience at Series B startup. Strong Python, PyTorch, MLflow, Docker, FastAPI. Deployed 3 models to production with monitoring and alerting. Owns full ML lifecycle from data ingestion to serving. CS degree from IIT. Experience with AWS EKS and Kubernetes.",
+    "job_description": "ML Engineer at a Series A fintech startup in Bangalore. 3-5 years experience required. Must have: Python, PyTorch, MLflow, Docker, REST APIs, production deployment experience. Nice to have: Kubernetes, AWS. Fast-paced environment, strong ownership culture.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [75, 95],
+    "key_gaps_that_should_not_appear": ["Python", "PyTorch", "MLflow", "Docker"],
+    "key_strengths_that_should_appear": ["production experience", "MLflow", "Docker", "PyTorch"]
+  },
+  {
+    "id": "fit_002",
+    "category": "fit",
+    "resume_summary": "5 years Python backend engineering. Expert in FastAPI, PostgreSQL, Docker, Redis, microservices. Led a team of 3 engineers. Built high-traffic REST APIs handling 100k req/day. Deep experience with unit testing, CI/CD, and Git workflows. B.Tech CS from BITS Pilani.",
+    "job_description": "Senior Backend Engineer at a Series B SaaS company in Hyderabad. 4-6 years Python experience. Required: FastAPI or Django, PostgreSQL, Docker, CI/CD, REST API design. Team lead experience preferred. Remote-friendly role.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [78, 95],
+    "key_gaps_that_should_not_appear": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+    "key_strengths_that_should_appear": ["FastAPI", "PostgreSQL", "REST APIs", "team lead"]
+  },
+  {
+    "id": "fit_003",
+    "category": "fit",
+    "resume_summary": "6 years DevOps and cloud infrastructure experience. Expert in AWS (EC2, EKS, RDS, S3, CloudWatch), Terraform, Kubernetes, Helm, Jenkins CI/CD, Prometheus/Grafana monitoring. Managed infra for 5 production services. AWS Certified Solutions Architect. B.Tech from NIT.",
+    "job_description": "DevOps/Cloud Engineer at MNC tech company in Pune. 5+ years experience. Required: AWS, Kubernetes, Terraform, CI/CD pipelines, monitoring (Prometheus/Grafana). Production SRE experience needed. On-site role.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [80, 95],
+    "key_gaps_that_should_not_appear": ["AWS", "Kubernetes", "Terraform", "CI/CD"],
+    "key_strengths_that_should_appear": ["AWS", "Kubernetes", "Terraform", "monitoring"]
+  },
+  {
+    "id": "fit_004",
+    "category": "fit",
+    "resume_summary": "4 years data science experience. Python (pandas, numpy, scikit-learn), SQL, Tableau, A/B testing, statistical modeling. Built churn prediction model reducing churn by 18%. Deployed models using Flask APIs. MSc Statistics from Delhi University. Experience in e-commerce and fintech domains.",
+    "job_description": "Data Scientist at Series A e-commerce startup in Mumbai. 3-5 years experience. Required: Python, pandas, scikit-learn, SQL, statistical modeling. A/B testing and business impact experience a plus. Remote-friendly.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [75, 92],
+    "key_gaps_that_should_not_appear": ["Python", "pandas", "scikit-learn", "SQL"],
+    "key_strengths_that_should_appear": ["pandas", "scikit-learn", "statistical modeling", "A/B testing"]
+  },
+  {
+    "id": "fit_005",
+    "category": "fit",
+    "resume_summary": "4 years full-stack development. React (hooks, Redux), FastAPI, PostgreSQL, Redis, Docker. Built 2 SaaS products end to end. TypeScript proficiency. Experience with Stripe integration, WebSockets, and real-time applications. B.Tech CSE from VIT.",
+    "job_description": "Full-Stack Engineer at seed-stage startup in Bangalore. 3-5 years experience. Required: React, Python backend (FastAPI or Flask), PostgreSQL, Docker. TypeScript preferred. Startup mindset, comfortable with ambiguity.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [75, 90],
+    "key_gaps_that_should_not_appear": ["React", "FastAPI", "PostgreSQL", "Docker"],
+    "key_strengths_that_should_appear": ["React", "FastAPI", "PostgreSQL", "full-stack"]
+  },
+  {
+    "id": "fit_006",
+    "category": "fit",
+    "resume_summary": "5 years MLOps engineering. Expert in Airflow (DAG authoring, scheduling), MLflow (experiment tracking, model registry), Kubeflow Pipelines, Docker, Kubernetes. Built end-to-end ML pipelines for computer vision and NLP models. AWS Sagemaker experience. M.Tech from IIT Bombay.",
+    "job_description": "MLOps Engineer at Series B AI company in Bangalore. 4-6 years experience. Required: Airflow, MLflow, Docker, Kubernetes. Pipeline automation and model monitoring are core responsibilities. Experience with cloud ML platforms (Sagemaker/Vertex AI) preferred.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [80, 95],
+    "key_gaps_that_should_not_appear": ["Airflow", "MLflow", "Docker", "Kubernetes"],
+    "key_strengths_that_should_appear": ["Airflow", "MLflow", "Kubeflow", "Kubernetes"]
+  },
+  {
+    "id": "fit_007",
+    "category": "fit",
+    "resume_summary": "3 years NLP engineering experience. Expertise in HuggingFace Transformers, BERT fine-tuning, spaCy, named entity recognition, text classification. Built production NLP APIs serving 50k queries/day. Published 1 NLP paper. Python, FastAPI, Docker. M.Tech AI from IISc.",
+    "job_description": "NLP Engineer at Series A healthtech startup in Hyderabad. 2-4 years NLP experience. Required: HuggingFace Transformers, BERT or similar, Python, FastAPI. Must have deployed NLP models to production. spaCy is a plus.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [78, 93],
+    "key_gaps_that_should_not_appear": ["HuggingFace", "BERT", "Python", "FastAPI"],
+    "key_strengths_that_should_appear": ["HuggingFace", "BERT", "production NLP", "spaCy"]
+  },
+  {
+    "id": "fit_008",
+    "category": "fit",
+    "resume_summary": "6 years data engineering. Apache Spark, Kafka, Airflow, AWS Glue, Redshift, dbt, Python. Built data pipelines processing 5TB/day. Designed lakehouse architecture on AWS S3. Led migration from batch to streaming. B.Tech CSE from Manipal.",
+    "job_description": "Senior Data Engineer at MNC in Bangalore. 5-7 years experience. Required: Spark, Kafka, Airflow, Python, SQL. Cloud data warehouse experience (Redshift, BigQuery, or Snowflake) required. Data lake architecture experience valued.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [78, 94],
+    "key_gaps_that_should_not_appear": ["Spark", "Kafka", "Airflow", "Python"],
+    "key_strengths_that_should_appear": ["Spark", "Kafka", "Airflow", "Redshift"]
+  },
+  {
+    "id": "fit_009",
+    "category": "fit",
+    "resume_summary": "4 years AI/LLM engineering. Built RAG systems using LlamaIndex and LangChain. Experience with OpenAI API, ChromaDB, FAISS, vector embeddings, prompt engineering, and LLM fine-tuning with LoRA. Deployed 2 chatbots to production on AWS. B.Tech CSE from IIIT Hyderabad.",
+    "job_description": "AI Engineer (LLM/RAG) at Series A startup in Bangalore. 3-5 years experience. Required: LangChain or LlamaIndex, vector databases (ChromaDB/FAISS/Pinecone), OpenAI or similar LLM APIs, Python. Production chatbot or RAG system deployment mandatory.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [80, 95],
+    "key_gaps_that_should_not_appear": ["LangChain", "LlamaIndex", "ChromaDB", "OpenAI"],
+    "key_strengths_that_should_appear": ["RAG", "LlamaIndex", "ChromaDB", "production deployment"]
+  },
+  {
+    "id": "fit_010",
+    "category": "fit",
+    "resume_summary": "7 years platform/infrastructure engineering. Python, Go, microservices, Docker, Kubernetes, AWS, Terraform. Designed and scaled platform handling 1M users. Led platform team of 8. Expertise in observability (Datadog, PagerDuty), API gateway design, and developer tooling. B.Tech from NIT Trichy.",
+    "job_description": "Platform Engineer at Series B tech company in Bangalore. 6-8 years experience. Required: Python or Go, Docker, Kubernetes, AWS, Terraform. Experience scaling distributed systems and leading platform teams preferred.",
+    "expected_recommendation": "strong_fit",
+    "expected_score_range": [82, 95],
+    "key_gaps_that_should_not_appear": ["Python", "Docker", "Kubernetes", "AWS", "Terraform"],
+    "key_strengths_that_should_appear": ["Kubernetes", "AWS", "Terraform", "platform scaling"]
+  },
+
+  {
+    "id": "mismatch_001",
+    "category": "mismatch",
+    "resume_summary": "Fresh graduate with 6 months Python self-study. Built one small Flask CRUD app. No professional experience. Familiar with basic Python syntax and pandas basics. No ML, no Docker, no cloud experience. B.Sc IT from a tier-3 college with 6.5 CGPA.",
+    "job_description": "Senior ML Engineer at Series B AI startup. 5+ years required. Must have: Python, PyTorch, production ML deployment, Docker, Kubernetes, MLflow, system design. Lead ML projects end to end. Manage junior engineers.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [5, 25],
+    "key_gaps_that_should_appear": ["experience", "PyTorch", "Docker", "MLflow", "Kubernetes", "production ML"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_002",
+    "category": "mismatch",
+    "resume_summary": "4 years Java enterprise development. Spring Boot, JEE, Oracle DB, JPA/Hibernate, SOAP/REST APIs, Maven, Jenkins. Worked on banking ERP systems. Strong OOP knowledge. No Python, no ML frameworks, no Docker, no machine learning experience whatsoever. B.Tech CSE.",
+    "job_description": "ML Engineer at Series A fintech in Pune. 3-5 years experience. Required: Python, PyTorch or TensorFlow, scikit-learn, MLflow, Docker. Build and deploy ML models for fraud detection. Strong Python mandatory.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [10, 30],
+    "key_gaps_that_should_appear": ["Python", "PyTorch", "ML experience", "MLflow"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_003",
+    "category": "mismatch",
+    "resume_summary": "3 years data analyst experience. Advanced Excel, Power BI, Tableau, SQL for reporting. Creates dashboards and business intelligence reports. No coding beyond basic SQL queries. No Python, no machine learning, no statistical modeling beyond Excel formulas. MBA from tier-2 college.",
+    "job_description": "ML Engineer at MNC in Bangalore. 3-5 years experience. Required: Python, PyTorch, scikit-learn, model training and deployment, Docker, REST API development. Production ML experience mandatory.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [8, 28],
+    "key_gaps_that_should_appear": ["Python", "PyTorch", "ML modeling", "Docker", "programming"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_004",
+    "category": "mismatch",
+    "resume_summary": "5 years freelance WordPress and PHP development. Building websites and e-commerce stores with WooCommerce. Basic CSS, HTML, JavaScript, PHP scripting. No Linux administration, no cloud platforms, no containerization, no infrastructure-as-code. Diploma in computer applications.",
+    "job_description": "Cloud DevOps Engineer at Series B SaaS company. 4-6 years experience. Required: AWS/GCP/Azure, Kubernetes, Terraform, Docker, Linux administration, CI/CD pipelines (GitHub Actions, Jenkins). Strong scripting in Python or Bash mandatory.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [5, 22],
+    "key_gaps_that_should_appear": ["AWS", "Kubernetes", "Terraform", "Docker", "Linux", "CI/CD"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_005",
+    "category": "mismatch",
+    "resume_summary": "Final year BTech CSE student with no internship experience. Completed online courses in Python basics and one Coursera ML certificate (Andrew Ng). Built a simple linear regression on a Kaggle dataset. No deployment experience, no real projects, no production systems.",
+    "job_description": "Staff ML Research Scientist at MNC AI lab. 8+ years required. PhD preferred. Must have: deep learning research publications, PyTorch, large-scale distributed training (multi-GPU), experience with LLMs and foundation model training, system design at scale.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [3, 18],
+    "key_gaps_that_should_appear": ["experience", "publications", "deep learning", "distributed training", "PhD"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_006",
+    "category": "mismatch",
+    "resume_summary": "4 years digital marketing experience. Google Ads, SEO, Salesforce CRM, HubSpot, content strategy, email campaigns, social media analytics. No technical background. No programming. No software engineering. MBA in Marketing from a business school.",
+    "job_description": "Backend Python Engineer at Series A startup in Bangalore. 3-5 years experience. Required: Python, FastAPI or Django, PostgreSQL, REST API development, Docker, Git. Software engineering background mandatory.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [3, 15],
+    "key_gaps_that_should_appear": ["Python", "programming", "FastAPI", "PostgreSQL", "software engineering"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_007",
+    "category": "mismatch",
+    "resume_summary": "3 years iOS mobile development. Swift, SwiftUI, Xcode, UIKit, CoreData, MapKit, Firebase (iOS SDK only). Published 3 iOS apps on App Store. No web development, no JavaScript, no React, no backend experience, no Python. B.Tech CSE from tier-2 college.",
+    "job_description": "Full-Stack Web Developer at seed startup in Bangalore. 2-4 years web development. Required: React or Vue.js, Node.js or Python backend, PostgreSQL or MongoDB, REST APIs, Docker. Must have both frontend and backend web experience.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [8, 28],
+    "key_gaps_that_should_appear": ["React", "Node.js", "backend web development", "PostgreSQL"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_008",
+    "category": "mismatch",
+    "resume_summary": "1 year junior data analyst experience after BTech. Uses Excel, SQL queries for reporting, basic Python for data cleaning (pandas). No model training, no statistical modeling beyond averages and percentages. No deployment experience. Very limited scope of work.",
+    "job_description": "Principal Data Scientist at MNC. 8-10 years experience required. Must have: advanced statistical modeling, causal inference, experimental design, ML model development at scale, team leadership, executive stakeholder communication, ML platform design.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [5, 22],
+    "key_gaps_that_should_appear": ["experience", "statistical modeling", "leadership", "causal inference", "seniority"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_009",
+    "category": "mismatch",
+    "resume_summary": "5 years hardware/embedded systems engineering. VHDL, Verilog, FPGA design, embedded C for microcontrollers, PCB design with Altium Designer. Experience with ARM Cortex processors and real-time operating systems. No software engineering, no Python, no ML, no cloud. B.Tech ECE from NIT.",
+    "job_description": "Software ML Engineer at Series A company in Bangalore. 4-6 years software engineering experience. Required: Python, TensorFlow or PyTorch, model training and optimization, Docker, Linux. Develop and deploy ML models in software.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [8, 25],
+    "key_gaps_that_should_appear": ["Python", "ML frameworks", "software engineering", "Docker", "ML modeling"],
+    "key_gaps_that_should_not_appear": []
+  },
+  {
+    "id": "mismatch_010",
+    "category": "mismatch",
+    "resume_summary": "4 years manual QA testing experience. Test case writing, bug reporting in JIRA, Selenium basics (record/playback), postman for API testing. No programming beyond very basic Selenium scripts. No automation frameworks, no Python, no ML, no cloud. BCA from tier-3 college.",
+    "job_description": "ML Infrastructure Engineer at Series B AI company. 4-6 years experience. Required: Python, Kubernetes, MLflow, Airflow, distributed training infrastructure, GPU cluster management, model serving (Triton or TorchServe). Expert-level programming required.",
+    "expected_recommendation": "not_fit",
+    "expected_score_range": [3, 18],
+    "key_gaps_that_should_appear": ["Python", "Kubernetes", "MLflow", "ML infrastructure", "programming"],
+    "key_gaps_that_should_not_appear": []
+  },
+
+  {
+    "id": "borderline_001",
+    "category": "borderline",
+    "resume_summary": "2 years ML junior engineer. Python, scikit-learn, pandas, basic PyTorch for training models. No production deployment experience (only Jupyter notebooks and local Flask demos). No Docker, no MLflow, no cloud. Has certifications in ML from Coursera. B.Tech CSE from tier-2 college with 8.5 CGPA.",
+    "job_description": "ML Engineer at Series A fintech startup in Bangalore. 3-5 years experience required. Must have: Python, PyTorch, MLflow, Docker, production deployment. Ownership of full ML lifecycle. Fast-paced startup.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [42, 62],
+    "key_gaps_that_should_appear": ["production deployment", "Docker", "MLflow", "experience level"],
+    "key_gaps_that_should_not_appear": ["Python", "scikit-learn"]
+  },
+  {
+    "id": "borderline_002",
+    "category": "borderline",
+    "resume_summary": "3 years Python backend developer. Strong FastAPI, PostgreSQL, Docker, REST API design, Git, CI/CD. Some ML hobby projects using scikit-learn (classification models in notebooks). No PyTorch, no MLflow, no production ML deployment, no model training at scale. B.Tech CSE.",
+    "job_description": "ML Engineer at a Series B AI company. 3-5 years experience. Required: Python, PyTorch, scikit-learn, MLflow, Docker, REST APIs. Build and deploy ML models. Production ML experience strongly preferred.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [44, 62],
+    "key_gaps_that_should_appear": ["PyTorch", "MLflow", "production ML", "model training"],
+    "key_gaps_that_should_not_appear": ["Python", "Docker", "REST APIs"]
+  },
+  {
+    "id": "borderline_003",
+    "category": "borderline",
+    "resume_summary": "Fresh graduate with exceptional ML projects. Built a RAG chatbot using LlamaIndex and ChromaDB deployed on HuggingFace Spaces. Image classifier with PyTorch (90% accuracy). REST API using FastAPI + Docker. Completed 5 ML courses including fast.ai. 9.1 CGPA BTech CSE from tier-1 college. No professional experience.",
+    "job_description": "Junior ML Engineer at seed-stage startup. 0-2 years experience acceptable if strong projects shown. Required: Python, PyTorch, FastAPI, Docker, some deployment experience. Will be mentored but must be self-driven.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [48, 68],
+    "key_gaps_that_should_appear": ["professional experience", "production systems"],
+    "key_gaps_that_should_not_appear": ["Python", "PyTorch", "FastAPI", "Docker"]
+  },
+  {
+    "id": "borderline_004",
+    "category": "borderline",
+    "resume_summary": "3 years data scientist at an analytics firm. Strong Python (pandas, numpy, scikit-learn, matplotlib), SQL, statistical analysis, A/B testing, Jupyter. Built classification and regression models for business use cases. No Docker, no MLflow, no model deployment (reports were the output), no API development. M.Sc Statistics.",
+    "job_description": "ML Engineer at fintech Series A startup. 3-5 years experience. Required: Python, PyTorch or scikit-learn, MLflow, Docker, REST API development. Must deploy models to production, not just notebooks.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [45, 63],
+    "key_gaps_that_should_appear": ["Docker", "MLflow", "production deployment", "REST APIs"],
+    "key_gaps_that_should_not_appear": ["Python", "scikit-learn", "data science"]
+  },
+  {
+    "id": "borderline_005",
+    "category": "borderline",
+    "resume_summary": "4 years DevOps engineer. Expert in Kubernetes, Docker, AWS, Terraform, CI/CD pipelines, Prometheus/Grafana monitoring, Helm. Worked alongside ML teams on infrastructure. Basic Python scripting. No ML modeling knowledge, no MLflow, no model training or evaluation, no data science background. B.Tech.",
+    "job_description": "MLOps Engineer at Series A AI company. 3-5 years experience. Required: Kubernetes, Docker, Airflow, MLflow, Python. Must bridge ML and infrastructure — comfortable with model deployment, pipeline orchestration, and some ML concepts. Pure DevOps background insufficient.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [45, 62],
+    "key_gaps_that_should_appear": ["MLflow", "ML concepts", "Airflow", "ML modeling knowledge"],
+    "key_gaps_that_should_not_appear": ["Kubernetes", "Docker", "AWS", "monitoring"]
+  },
+  {
+    "id": "borderline_006",
+    "category": "borderline",
+    "resume_summary": "2 years NLP research at a university lab. Published 1 paper on BERT fine-tuning for sentiment analysis. Proficient in HuggingFace Transformers, PyTorch, Python. No FastAPI, no Docker, no production deployment. All work was research notebooks and academic reporting. M.Tech AI from IIT.",
+    "job_description": "NLP Engineer at Series A healthtech startup. 2-4 years NLP experience. Required: HuggingFace, BERT/GPT fine-tuning, Python, FastAPI, Docker. Must deploy NLP models as production APIs. Production experience strongly preferred over pure research.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [46, 65],
+    "key_gaps_that_should_appear": ["production deployment", "FastAPI", "Docker", "API development"],
+    "key_gaps_that_should_not_appear": ["HuggingFace", "BERT", "PyTorch", "NLP"]
+  },
+  {
+    "id": "borderline_007",
+    "category": "borderline",
+    "resume_summary": "3 years ML engineer experience at a Series A startup. Good Python, PyTorch, scikit-learn, basic MLflow, Docker. Deployed 2 models to production. Works independently on mid-complexity tasks. Has not led a team, has not designed ML systems at scale, has not mentored others. B.Tech CSE from tier-2 college.",
+    "job_description": "Senior ML Engineer at Series B company. 5-8 years experience required. Lead ML projects, mentor junior engineers, design ML system architecture, drive technical decisions. Strong individual contributor with team leadership expected.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [43, 62],
+    "key_gaps_that_should_appear": ["experience level", "team leadership", "system design at scale", "mentoring"],
+    "key_gaps_that_should_not_appear": ["Python", "PyTorch", "Docker"]
+  },
+  {
+    "id": "borderline_008",
+    "category": "borderline",
+    "resume_summary": "4 years full-stack engineer. React, FastAPI, PostgreSQL, Docker, Redis. Good software engineering skills. ML side projects: image classification with PyTorch (hobby), 1 LangChain chatbot tutorial followed. No production ML deployment, no MLflow, no formal ML training, no model evaluation experience. B.Tech CSE.",
+    "job_description": "AI Engineer at Series A startup. 3-5 years experience. Required: Python, LangChain or LlamaIndex, vector databases, OpenAI API. Will build LLM-powered features end to end. Software engineering depth valued but must have genuine AI/LLM experience.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [44, 63],
+    "key_gaps_that_should_appear": ["LangChain depth", "vector database", "LLM production experience"],
+    "key_gaps_that_should_not_appear": ["Python", "FastAPI", "Docker"]
+  },
+  {
+    "id": "borderline_009",
+    "category": "borderline",
+    "resume_summary": "4 years senior data engineer. Apache Spark, Kafka, Airflow, dbt, AWS Redshift, Python. Expert at building data pipelines and data warehouses. No ML modeling, no MLflow, no model training, no scikit-learn or PyTorch experience. Understands data well but has never trained or served an ML model. M.Tech.",
+    "job_description": "ML Engineer at Series A fintech. 3-5 years experience. Python, scikit-learn or PyTorch, MLflow, Docker, Airflow (for pipelines). Must build AND deploy ML models. Strong data engineering background considered, but ML modeling skill is mandatory.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [45, 62],
+    "key_gaps_that_should_appear": ["ML modeling", "PyTorch", "scikit-learn", "MLflow"],
+    "key_gaps_that_should_not_appear": ["Airflow", "Python", "data pipelines"]
+  },
+  {
+    "id": "borderline_010",
+    "category": "borderline",
+    "resume_summary": "5 years senior Python developer. Expert in backend systems, microservices, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, AWS. Managed a team of 4. No ML experience at all — no model training, no PyTorch, no scikit-learn, no MLflow. Interested in AI but zero hands-on ML or data science background. B.Tech CSE from BITS.",
+    "job_description": "ML Tech Lead at Series B company. 5-7 years experience. Required: Strong Python, ML modeling (PyTorch or TensorFlow), MLflow, Docker, Kubernetes. Must lead ML team, do code reviews, and contribute to ML architecture. Both engineering depth and ML knowledge required.",
+    "expected_recommendation": "possible_fit",
+    "expected_score_range": [43, 60],
+    "key_gaps_that_should_appear": ["ML modeling", "PyTorch", "MLflow", "ML knowledge"],
+    "key_gaps_that_should_not_appear": ["Python", "Docker", "Kubernetes", "FastAPI", "leadership"]
+  }
+]

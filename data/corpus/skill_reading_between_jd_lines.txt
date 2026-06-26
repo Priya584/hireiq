@@ -1,0 +1,23 @@
+TOPIC: How to read between the lines of a JD
+
+Job descriptions encode signals beyond the literal text. Common translations:
+
+- "Wear many hats" / "fast-paced" / "wear multiple roles" → small team, broad
+  scope, limited process, possible long hours. Startup reality.
+- "Rockstar / ninja / 10x" → vague role, possibly chaotic, sometimes a warning.
+- Very long skills list → either they don't know exactly what they want, or one
+  person covers a lot. Don't be scared off if you match ~60-70%.
+- "Must be willing to work in a dynamic environment" → expect change and
+  ambiguity.
+- "Competitive salary" with no number → often means market or below; they want you
+  to name a figure first.
+- "Immediate joiners preferred" → urgent backfill or growth pressure.
+- Emphasis on "ownership" and "self-starter" → little hand-holding; good for
+  autonomy, bad if you want structure.
+- Heavy process/certification language (Agile, SAFe, ITIL) → larger, structured
+  org.
+- "Stakeholder management" → client- or cross-team-facing, communication-heavy.
+
+Rule of thumb: required vs preferred matters — apply if you meet most "required"
+even if you miss "preferred." And the responsibilities section is more honest than
+the buzzword-laden "about us" section.

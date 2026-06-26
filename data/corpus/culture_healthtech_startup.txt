@@ -1,0 +1,35 @@
+COMPANY TYPE: HealthTech startup
+
+MISSION & VISION
+We are improving patient outcomes through technology — diagnostics, care delivery,
+or clinical workflows. The mission is genuinely life-affecting, which raises the
+stakes: bugs can harm patients, and trust with clinicians and regulators is
+everything.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Conscientiousness and care. We look for engineers who understand that "move fast
+and break things" does not apply when patient safety is involved. Mission
+alignment is a strong signal — people drawn to healthcare tend to stay and care.
+Comfort with regulatory constraints (HIPAA-equivalent, clinical validation) and
+working closely with doctors and domain experts.
+
+INTERVIEW PROCESS
+Three to four rounds. (1) Screen + motivation for healthcare. (2) Technical round
+relevant to the role. (3) A round with a clinical/domain stakeholder on how you
+handle correctness, edge cases, and ambiguity in medical data. (4) Values round
+on responsibility and ethics.
+
+TECH CULTURE
+A deliberate blend: fast on product surfaces, methodical and careful on anything
+touching clinical decisions, patient data, or compliance. Strong emphasis on data
+privacy, auditability, and validation.
+
+GROWTH OPPORTUNITIES
+Deep domain expertise that compounds — health domain knowledge is rare and
+valuable. Mission-driven teams with low churn. Opportunity to shape regulated
+products.
+
+RED FLAGS WE SCREEN FOR
+Cavalier attitudes toward correctness, testing, or data privacy. Pure mercenaries
+with no mission interest (high churn risk). Engineers who can't collaborate with
+non-technical clinical experts.

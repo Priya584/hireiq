@@ -1,0 +1,35 @@
+COMPANY TYPE: US-based product company, India engineering office (GCC/captive)
+
+MISSION & VISION
+We are the India engineering center of a US product company. The India office is
+not a vendor — it owns full products and services end-to-end, with the same bar as
+the US teams. The mission is to build world-class products while operating as one
+global engineering org.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+A high engineering bar comparable to top US companies: strong fundamentals, clean
+code, rigorous system design, and excellent written communication for async work
+across time zones. We look for ownership and the maturity to make decisions
+without waiting for the US team to wake up. Product sense and the ability to push
+back on requirements are valued.
+
+INTERVIEW PROCESS
+Rigorous, US-style. (1) Recruiter screen. (2) One or two DS&A rounds (real
+algorithmic depth). (3) System design round at senior levels. (4) Behavioral /
+"hiring manager" round on ownership and collaboration. (5) Sometimes a
+bar-raiser. The bar is high and consistent globally.
+
+TECH CULTURE
+Strong engineering excellence: code review, testing, design docs, on-call done
+well. More methodical than a startup but faster and flatter than an MNC services
+firm. Heavy async communication and documentation because of the time-zone gap.
+
+GROWTH OPPORTUNITIES
+Top-tier compensation for India, strong mentorship, and the ability to grow on a
+global ladder. Exposure to large-scale production systems and world-class peers.
+Visibility to the US org matters for promotion.
+
+RED FLAGS WE SCREEN FOR
+Weak fundamentals masked by framework familiarity. Poor written communication.
+Candidates who need constant direction. Inability to handle the async, self-driven
+working style.

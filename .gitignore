@@ -1,0 +1,52 @@
+# ── Secrets (NEVER commit) ────────────────────────────────────────────────────
+.env
+*.key
+*.pem
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Generated vector store (rebuilt automatically on first run) ───────────────
+database/chroma_store/
+
+# ── Raw uploaded resumes / JDs (user data, not for repo) ─────────────────────
+data/raw/
+
+# ── Build artifacts ───────────────────────────────────────────────────────────
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── IDE and OS ────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# ── Streamlit cache ───────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Test / benchmark outputs (exclude large results, keep structure) ──────────
+benchmark/results.json
+
+# =============================================================================
+# EXPLICITLY INCLUDED (tracked in git)
+# These lines are comments — git does not have an "include" directive;
+# simply ensure the above excludes don't accidentally catch these paths.
+# =============================================================================
+# database/jobs.db          ← SQLite job listings (50 jobs, 20 companies)
+database/profiles.db
+# data/corpus/              ← Culture/skill/interview docs (auto-generated)
+# data/demo_result.json     ← Pre-computed demo analysis for demo mode
+# data/processed/           ← DB creation script

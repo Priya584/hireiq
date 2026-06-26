@@ -1,0 +1,31 @@
+INTERVIEW EXPERIENCE: A rejected candidate — what went wrong and why
+
+CONTEXT
+A mid-level backend engineer interviewing at a Series A product company. Strong
+resume (good companies, relevant stack), but rejected after the onsite. This write-
+up captures the failure modes interviewers cited, as a learning example.
+
+ROUNDS & WHERE IT BROKE DOWN
+(1) Screen — passed. (2) Coding — passed but slowly, with messy code. (3) System
+design — this is where it failed. (4) Behavioral — mixed.
+
+WHAT WENT WRONG
+- System design: jumped to naming technologies ("we'll use Kafka, Redis, K8s")
+  without clarifying requirements or estimating load. Could not justify WHY each
+  piece was needed, and over-engineered a simple problem into premature
+  microservices.
+- Could not explain tradeoffs: when asked "why this database?", answered "it's what
+  I've used" rather than reasoning about the workload.
+- Behavioral: described work only as individual tasks; no ownership of outcomes, no
+  examples of influencing others or handling ambiguity. Read as junior despite the
+  years of experience.
+- Communication: rambled, used jargon without structure, and didn't check
+  assumptions with the interviewer.
+
+WHAT THE CANDIDATE WISHED THEY HAD PREPARED
+Driving an ambiguous system design with explicit requirements and tradeoffs, and
+preparing concrete ownership/impact stories rather than task lists.
+
+OUTCOME: No offer. The core reasons were weak system-design reasoning (tech name-
+dropping over tradeoffs), lack of demonstrated ownership, and unclear
+communication — not a lack of raw coding ability.

@@ -1,0 +1,22 @@
+TOPIC: What "production ML experience" actually means
+
+When a JD says "production ML experience," it rarely means training models in a
+notebook. It means you have owned a model that real users or systems depend on,
+through its full lifecycle:
+
+- Data pipelines: getting reliable training and serving data, handling drift,
+  missing values, and schema changes — not a clean Kaggle CSV.
+- Serving: deploying a model behind an API or batch job with latency, throughput,
+  and uptime constraints. Knowing the difference between a 50ms and 500ms model.
+- Monitoring: detecting data drift, model decay, and silent failures in
+  production; having dashboards and alerts.
+- Retraining and versioning: model registries, reproducible training, rollback.
+- Evaluation in the real world: offline metrics vs online metrics, A/B testing,
+  and the gap between them.
+
+What it does NOT mean: getting 99% accuracy on a benchmark, finishing a course, or
+fine-tuning once in Colab. Interviewers probe this by asking "what broke in
+production and how did you find out?" Candidates who only have notebook experience
+struggle with that question. At startups, "production ML" often also means you
+built the infra yourself; at big companies it may mean you used an internal
+platform. Be specific about which.

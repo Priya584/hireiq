@@ -1,0 +1,23 @@
+TOPIC: Remote work culture differences
+
+"Remote-friendly" means very different things, and reading it correctly avoids
+mismatched expectations:
+
+- Fully remote / remote-first: the company is built around async work — strong
+  written communication, documented decisions, flexible hours, and few mandatory
+  in-person events. Common at some startups and global product companies.
+- Hybrid: typically 2-3 days in office, often with location requirements near a
+  hub city. "Remote-friendly" in many Indian JDs actually means hybrid.
+- Remote-tolerated: the company is office-centric but allows occasional remote.
+  Decisions still happen in hallways; remote workers can be at a disadvantage for
+  visibility and promotion.
+
+What thrives remotely: self-driven people with strong written communication who
+don't need constant supervision. What struggles: those who learn best by osmosis,
+need real-time collaboration, or are early-career and benefit from in-person
+mentorship.
+
+Implications: remote roles weight written communication and autonomy heavily in
+hiring. Ask explicitly about meeting/time-zone expectations, especially for
+US-India roles where late-evening overlap calls are common. A JD that says
+"remote" but lists a city is usually hybrid — clarify before assuming.

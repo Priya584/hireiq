@@ -1,0 +1,37 @@
+COMPANY TYPE: Growth-stage B2B SaaS company (Series A)
+
+MISSION & VISION
+We sell workflow software to mid-market companies and have found product-market
+fit — now the job is to scale revenue 5x without the product collapsing under its
+own weight. Series A means we have real customers, real SLAs, and real revenue to
+protect, but we are still small enough that one engineer's decision can move the
+whole product.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+We look for people who can balance speed with not breaking paying customers. The
+seed-stage "move fast and break things" energy must now coexist with on-call,
+backwards compatibility, and customer trust. We value engineers who think about
+the customer impact of a change, who write enough tests, and who can scope a
+feature into shippable increments. Strong written communication matters because
+we are partially async.
+
+INTERVIEW PROCESS
+Four rounds. (1) Recruiter/role fit. (2) Technical screen — a practical coding
+problem close to real work (API design, data modeling). (3) System design scaled
+to your level: how would you design multi-tenant feature X. (4) Cross-functional
+round with product and a founder on collaboration and customer empathy.
+
+TECH CULTURE
+Fast but maturing. We have CI/CD, code review, and staging now. Squad-based with
+real ownership of services. Bias toward action but with guardrails. Promotion
+cycles are quick because the company is growing under you.
+
+GROWTH OPPORTUNITIES
+This is the sweet spot for career acceleration: enough structure to learn good
+habits, enough chaos to own big things. Early Series A engineers often become the
+first EMs and staff engineers.
+
+RED FLAGS WE SCREEN FOR
+Engineers who only optimize for speed and dismiss tests/on-call as "process."
+Equally, people so process-heavy they can't ship without a perfect spec.
+Candidates who can't explain the business reason behind a technical choice.

@@ -1,0 +1,27 @@
+INTERVIEW EXPERIENCE: AI Researcher at a deep tech startup
+
+ROUNDS & STRUCTURE
+Five rounds. (1) Screen on research background and interests. (2) ML/math
+fundamentals deep-dive. (3) Paper discussion: present your work or dissect a paper.
+(4) Research coding exercise: reproduce/extend a result or design an experiment.
+(5) Research-fit and culture with the founding researchers.
+
+SPECIFIC QUESTIONS ASKED
+- "Derive backprop for this layer" / probability and linear-algebra fundamentals.
+- "Walk us through your most significant research contribution and its limitations."
+- "Here's a paper — what's the key idea, what would you criticize, how would you
+  extend it?"
+- "Design an experiment to test hypothesis X; what are the confounders?"
+
+WHAT THE INTERVIEWER EMPHASIZED
+First-principles depth, research taste, and intellectual honesty about limitations.
+They strongly valued the ability to read, reproduce, and critique papers, and to
+reason about experimental rigor. API-only "users" of models were filtered out.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+The math and the ability to defend research choices and admit limitations. Also
+reproducing recent papers — candidates who only used libraries without
+understanding internals struggled badly.
+
+OUTCOME: Offer made. Demonstrated genuine depth (clean derivations, honest critique
+of own work) and strong research taste were decisive.

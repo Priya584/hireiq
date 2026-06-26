@@ -1,0 +1,20 @@
+TOPIC: What DevOps skills mean in Indian startups
+
+"DevOps" in an Indian startup JD is broad and often means "the person who keeps
+everything running and automated," not a narrow specialty. Expect:
+
+- Cloud: AWS (most common), sometimes GCP/Azure. EC2, S3, RDS, IAM, VPC basics.
+- Containers & orchestration: Docker always; Kubernetes increasingly, though many
+  early startups run on simpler setups (ECS, managed services) and only adopt K8s
+  when they actually need it.
+- CI/CD: GitHub Actions / GitLab CI / Jenkins — building pipelines from scratch.
+- IaC: Terraform is the common ask; some use Ansible.
+- Observability: setting up logging, metrics, and alerts (Prometheus/Grafana,
+  CloudWatch, Datadog).
+- Linux and scripting (Bash/Python) are assumed.
+
+The reality: at seed/Series A, a DevOps engineer often also does on-call, cost
+optimization, security basics, and a bit of backend. Pure "I only write Terraform"
+profiles don't fit. At Series B+ the role narrows and deepens (platform/SRE). A
+common gap: candidates know the tools in isolation but have never built a pipeline
+or debugged a production outage end-to-end, which is what startups actually need.

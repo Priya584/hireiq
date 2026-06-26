@@ -1,0 +1,20 @@
+TOPIC: What "strong fundamentals" means at different company types
+
+"Strong fundamentals" is one of the most loaded phrases in tech JDs, and it means
+different things by company type:
+
+- MNC / IT services: solid grasp of OOP, data structures, the language's standard
+  library, SQL, and SDLC process. Tested via standard DS&A and definitions.
+- Product companies / US-India offices: deep DS&A (you can solve medium/hard
+  algorithm problems), strong systems understanding (memory, concurrency,
+  networking), and clean code. The bar is high and tested rigorously.
+- Startups (seed/Series A): fundamentals mean you can build things correctly
+  without hand-holding — you understand HTTP, databases, indexing, and can debug a
+  production issue from first principles. Less algorithm trivia, more "can you make
+  it work and not fall over."
+- Deep tech / AI: fundamentals extend to math (linear algebra, probability,
+  optimization) and the internals of the models/systems you use.
+
+The common thread: fundamentals = understanding WHY things work, not memorizing
+HOW to use a framework. A red flag for all of them is someone who can use a tool
+but cannot explain what it does underneath.

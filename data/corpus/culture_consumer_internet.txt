@@ -1,0 +1,32 @@
+COMPANY TYPE: Consumer internet company
+
+MISSION & VISION
+We build a consumer app used by tens of millions daily — commerce, social, or
+content. The mission is delightful, fast experiences at massive scale. Growth,
+engagement, and retention metrics drive almost everything.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Product sense and a data-driven mindset. We look for engineers who care about user
+experience, latency, and metrics, and who can run and interpret A/B tests. Comfort
+with very large scale, high traffic, and the messiness of real user behavior.
+Speed of iteration matters.
+
+INTERVIEW PROCESS
+Four rounds. (1) Screen. (2) DS&A round (scale makes algorithms matter). (3)
+System design for high-scale, low-latency consumer systems (feed, search, cart).
+(4) Product/behavioral round — how you'd improve a metric, how you reason about
+user impact.
+
+TECH CULTURE
+Fast-paced and experiment-heavy. Ship, measure, iterate. Strong A/B testing and
+analytics culture. High-scale infrastructure challenges. Bias toward action with
+data as the referee.
+
+GROWTH OPPORTUNITIES
+Massive scale exposure and strong product-engineering crossover. Fast growth for
+those who move metrics. Good comp and brand value.
+
+RED FLAGS WE SCREEN FOR
+Engineers indifferent to product and users ("just give me the spec"). People who
+can't reason about scale or latency. Analysis paralysis — over-thinking instead of
+experimenting. Ignoring metrics.

@@ -1,0 +1,27 @@
+INTERVIEW EXPERIENCE: DevOps Engineer at a Series B scale-up
+
+ROUNDS & STRUCTURE
+Four rounds. (1) Screen. (2) Technical round on Linux, networking, and cloud
+fundamentals. (3) Hands-on/scenario round: debug a broken deployment, design a
+CI/CD pipeline. (4) System design for reliability + behavioral on incident
+handling.
+
+SPECIFIC QUESTIONS ASKED
+- "A pod keeps crashing in Kubernetes — walk me through your debugging."
+- "Design a CI/CD pipeline for a microservices app with safe rollbacks."
+- "How do you achieve zero-downtime deploys?"
+- "Describe an outage you handled: detection, mitigation, root cause, prevention."
+- Terraform: "How do you manage state across a team safely?"
+
+WHAT THE INTERVIEWER EMPHASIZED
+Real operational experience over tool name-dropping. They probed actual debugging
+and incident response, observability (SLOs, alerts), and safe deployment practices.
+At Series B, reliability and on-call maturity mattered a lot.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Concrete incident stories and hands-on debugging. Candidates who knew tools only
+theoretically (could describe Kubernetes but never debugged a real cluster issue)
+fell short.
+
+OUTCOME: Offer made. Strong, specific incident-response stories and a solid
+pipeline design were decisive.

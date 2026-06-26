@@ -1,0 +1,26 @@
+INTERVIEW EXPERIENCE: Product Manager at a consumer internet company
+
+ROUNDS & STRUCTURE
+Five rounds. (1) Recruiter screen. (2) Product sense / design round. (3) Analytical
+/ metrics round. (4) Execution / prioritization round. (5) Cross-functional +
+leadership/behavioral.
+
+SPECIFIC QUESTIONS ASKED
+- Product sense: "How would you improve the app's onboarding for first-time users?"
+- Metrics: "DAU is flat but installs are up — diagnose what's happening."
+- "Define the success metric for feature X and how you'd run the experiment."
+- Prioritization: "You have 5 features and one sprint — how do you decide?"
+- Behavioral: "Tell me about a product decision you got wrong."
+
+WHAT THE INTERVIEWER EMPHASIZED
+Data-driven product thinking, crisp prioritization with clear reasoning, and user
+empathy. They wanted structured frameworks but penalized rigid framework-dumping
+without insight. Comfort with metrics and experiments was essential.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Metrics fluency and structured-but-natural product reasoning. Candidates who
+memorized frameworks but couldn't apply them to the company's actual product
+struggled, as did those uncomfortable with A/B testing concepts.
+
+OUTCOME: Offer made. A strong, structured metrics-diagnosis answer and genuine
+user empathy were the differentiators.

@@ -1,0 +1,27 @@
+INTERVIEW EXPERIENCE: ML Engineer at a Series A startup
+
+ROUNDS & STRUCTURE
+Four rounds over two weeks. (1) Recruiter screen (30 min). (2) Technical phone
+screen — coding + ML basics (1 hr). (3) Take-home: build a small model + a serving
+endpoint on a provided dataset (4-6 hrs of work). (4) Onsite (virtual): take-home
+deep-dive, system design for an ML feature, and a founder culture round.
+
+SPECIFIC QUESTIONS ASKED
+- "Walk me through your take-home: why this model, what did you trade off?"
+- "Your endpoint takes 400ms — how would you get it under 100ms?"
+- "How would you detect that this model is degrading in production?"
+- System design: "Design a recommendation feature for our product, end to end,
+  including data, training, serving, and monitoring."
+- Founder round: "Tell me about something you shipped with no clear spec."
+
+WHAT THE INTERVIEWER EMPHASIZED
+End-to-end ownership and pragmatism. They cared far more about whether the model
+worked in production and whether I understood tradeoffs than about exotic model
+choices. They repeatedly pushed on monitoring and failure modes.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Serving/latency and monitoring, not just modeling. Many ML candidates over-prepare
+training and under-prepare deployment, drift, and "what breaks in prod."
+
+OUTCOME: Offer made. The deciding factors were a clean, working take-home with
+sensible tradeoffs and a strong founder-round story about shipping under ambiguity.

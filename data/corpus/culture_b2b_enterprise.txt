@@ -1,0 +1,34 @@
+COMPANY TYPE: B2B enterprise software company
+
+MISSION & VISION
+We build software that large enterprises run their core operations on. The mission
+is reliability, security, and deep functionality for complex organizations. Sales
+cycles are long, customers are demanding, and contracts are large — so trust and
+robustness beat flashy features.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Engineers who care about correctness, backwards compatibility, security, and the
+long tail of enterprise edge cases. We value people who can navigate complexity and
+legacy, who document well, and who understand that enterprise customers cannot
+tolerate breaking changes. Patience and rigor over novelty.
+
+INTERVIEW PROCESS
+Four rounds. (1) Screen. (2) Technical round on solid engineering and debugging of
+complex systems. (3) System design emphasizing reliability, security, integrations,
+and backwards compatibility. (4) Behavioral round on handling demanding customers
+and long-running projects.
+
+TECH CULTURE
+Methodical and quality-focused. Strong testing, security review, and release
+discipline. Slower iteration than consumer products because stability is the
+product. Lots of integrations and configurability.
+
+GROWTH OPPORTUNITIES
+Deep technical mastery of complex domains and distributed systems. Stable, senior
+IC and architect tracks. Valuable, transferable expertise in security and
+reliability.
+
+RED FLAGS WE SCREEN FOR
+"Move fast and break things" engineers who dismiss backwards compatibility and
+security. People who get bored by complexity and edge cases. Poor documentation
+habits.

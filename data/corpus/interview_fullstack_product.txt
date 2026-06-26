@@ -1,0 +1,27 @@
+INTERVIEW EXPERIENCE: Full Stack Developer at a product company
+
+ROUNDS & STRUCTURE
+Four rounds. (1) Recruiter screen. (2) DS&A coding round (medium difficulty). (3)
+Practical full-stack round: build a small feature with a React frontend and an API
+backend. (4) System design + behavioral.
+
+SPECIFIC QUESTIONS ASKED
+- DS&A: a medium array/hashmap problem with follow-ups on complexity.
+- Practical: "Add this feature end to end — UI, API, and data model — and handle
+  the error states."
+- System design: "Design the frontend and backend for a commenting system with
+  pagination and real-time updates."
+- Behavioral: "Tell me about a disagreement with a teammate on a technical choice."
+
+WHAT THE INTERVIEWER EMPHASIZED
+Genuine comfort across the stack, clean code, and handling edge/error states (not
+just the happy path). They valued someone who thinks about UX and API contracts
+together, plus reasonable algorithmic ability.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Both depth and breadth: some strong frontend devs were weak on API/data modeling,
+and some backend devs struggled with React state. Also, error handling and edge
+cases, which interviewers probed heavily.
+
+OUTCOME: Offer made. Balanced full-stack ability and careful handling of edge cases
+stood out; the DS&A round was passed but was not the deciding factor.

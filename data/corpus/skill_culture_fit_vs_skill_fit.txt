@@ -1,0 +1,23 @@
+TOPIC: Culture fit vs skill fit — how companies weigh them
+
+Companies hire on both skill fit (can you do the work) and culture/values fit (will
+you thrive and work well here). How they weigh them varies:
+
+- Startups (seed/Series A): culture and ownership fit can outweigh exact skills.
+  They'd rather hire an adaptable, high-ownership generalist who's missing a tool
+  than a perfect-skills person who needs structure. Attitude and slope > current
+  knowledge.
+- Product / US-India offices: high skill bar AND strong "values"/behavioral bar —
+  both must clear. A brilliant engineer who fails the collaboration bar is often
+  rejected ("no jerks" rule).
+- MNC / services: skill and process fit dominate; "culture fit" is more about
+  professionalism and ability to work in structured teams.
+- Deep tech: skill/research depth dominates, but research-collaboration fit matters.
+
+"Culture fit" has a dark side: it can mask bias ("not like us"). Good companies use
+"values fit" or "culture add" with structured behavioral interviews instead of vibes.
+
+For candidates: skill fit gets you in the door; culture/values fit often decides
+between two qualified candidates. In behavioral rounds, show alignment with how the
+company actually works (e.g., ownership for startups, rigor for product companies)
+rather than generic enthusiasm.

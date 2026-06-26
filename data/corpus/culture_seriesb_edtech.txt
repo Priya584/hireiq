@@ -1,0 +1,33 @@
+COMPANY TYPE: Scale-up edtech company (Series B)
+
+MISSION & VISION
+We help millions of students learn better through adaptive content. At Series B we
+are past survival and into scale: tens of millions of users, large content and
+data pipelines, and the operational reality of a consumer product with seasonal
+spikes (exam season). Reliability and unit economics now matter as much as growth.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Engineers who think at scale and care about cost. We look for people who have
+operated systems under real load and understand caching, queues, and graceful
+degradation. We value mentorship ability — teams are growing and seniors must
+lift juniors. Data sensitivity matters: we handle minors' data.
+
+INTERVIEW PROCESS
+Four to five rounds. (1) Screen. (2) DS&A round (yes, we still test algorithms at
+this scale because hot paths matter). (3) System design at scale — design the
+quiz-serving system for 5M concurrent users during exam season. (4) Domain/role
+deep-dive. (5) Bar-raiser / values round.
+
+TECH CULTURE
+Methodical where it counts (payments, content correctness, student data) and fast
+where it's safe (experiments, growth features). Strong observability culture,
+incident reviews, and SLOs. More structure than a Series A.
+
+GROWTH OPPORTUNITIES
+Defined ladders are emerging. Good place to grow into a senior/staff IC or an EM
+with real scope. Internal mobility across content, platform, and growth teams.
+
+RED FLAGS WE SCREEN FOR
+People who over-engineer for scale they don't have yet, and people who ignore cost
+entirely. Candidates who can't handle a system design question that has no clean
+answer. Lack of empathy for the student/end-user.

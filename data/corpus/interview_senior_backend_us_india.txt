@@ -1,0 +1,26 @@
+INTERVIEW EXPERIENCE: Senior Backend Engineer at a US product company's India office
+
+ROUNDS & STRUCTURE
+Rigorous, five rounds. (1) Recruiter screen. (2) Two DS&A rounds (medium-hard,
+real algorithmic depth). (3) System design round (senior-level, open-ended). (4)
+Hiring manager / behavioral on ownership and cross-timezone collaboration. (5)
+Bar-raiser.
+
+SPECIFIC QUESTIONS ASKED
+- DS&A: graph and dynamic-programming problems with optimal-complexity follow-ups.
+- System design: "Design a globally distributed rate limiter" with deep discussion
+  of consistency, failure, and scale.
+- "How do you operate when the US team is offline and a decision is needed now?"
+- "Tell me about a system you owned end to end, including on-call."
+
+WHAT THE INTERVIEWER EMPHASIZED
+A high, US-comparable bar: strong algorithms, rigorous system design with explicit
+non-functional requirements, and the maturity to own decisions autonomously across
+time zones. Excellent written/async communication was a recurring theme.
+
+WHAT CANDIDATES WISH THEY HAD PREPARED
+Hard DS&A even as a senior (some assumed seniority excused algorithm rounds — it
+did not), and deep system design with reliability/consistency tradeoffs.
+
+OUTCOME: Offer made. Strong system design and clear autonomy/ownership stories
+carried it; the algorithm rounds were the gate, not the differentiator.

@@ -1,0 +1,32 @@
+COMPANY TYPE: Gaming startup
+
+MISSION & VISION
+We build mobile games that millions play daily. The mission is to create games
+that are genuinely fun and retain players for years. We live at the intersection
+of creativity, real-time systems, and live-ops economics.
+
+WHAT WE ACTUALLY LOOK FOR (BEYOND SKILLS)
+Passion for games is a real filter — people who play and analyze games build
+better ones. We look for engineers comfortable with real-time, low-latency
+systems, performance optimization, and the unglamorous reality of live-ops (events,
+A/B tests, economy tuning). Creativity and a data-driven mindset together.
+
+INTERVIEW PROCESS
+Three to four rounds. (1) Screen + "what games do you play and why are they good."
+(2) Technical round emphasizing performance, concurrency, and sometimes a small
+game-logic problem. (3) System design for real-time multiplayer or live-ops infra.
+(4) Culture round on creativity and handling live-game crises.
+
+TECH CULTURE
+Fast and intense, with crunch around launches and live events. Highly metrics-
+driven (retention, ARPU, DAU). Tolerance for experimentation and rapid iteration.
+Cross-functional with designers and artists.
+
+GROWTH OPPORTUNITIES
+Broad: you touch client, server, infra, and data. Fast growth if you can ship hits.
+Strong sense of impact when millions play what you built.
+
+RED FLAGS WE SCREEN FOR
+Engineers with no interest in games (retention suffers). People who can't handle
+the intensity of live-ops or launch crunch. Over-engineering for scale before a
+game proves retention. Ignoring performance on low-end devices.
