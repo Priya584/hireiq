@@ -184,20 +184,7 @@ hiring-copilot/
 └── .env.example
 ```
 
-## Live Demo
-
-🚀 **[Add link after deployment]**
-
-## Screenshots
-
-*Add after deployment.*
-
----
-
 ## Contributing
 
 Pull requests welcome. For significant changes, please open an issue first.
 
-## License
-
-MIT
