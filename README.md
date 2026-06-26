@@ -1,3 +1,13 @@
+---
+title: HireIQ
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # AI Hiring Co-pilot 🤖
 
 > An evidence-based multi-agent system that analyzes candidate fit for a role by reasoning across structured job data (SQL) and company culture documents (RAG) — producing a cited fit score, identified gaps, follow-up questions, and a re-evaluation loop.
